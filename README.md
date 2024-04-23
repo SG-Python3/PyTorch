@@ -1,1 +1,1 @@
-# The-code-of-DMA-HPCNet
+# DMA-HPCNet
